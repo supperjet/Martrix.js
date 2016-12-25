@@ -23,7 +23,7 @@ canvas黑客帝国特效插件
 ```
 
 ###3、DEMO
-运行`test.html`
+[运行test.html](http://codepen.io/supperjet/pen/JbqZPK)
 
 ![](Imgs/demo.png)
 
