@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="dist/martrix.min.js"></script>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        } 
+    </style>
+   
+</head>
+<body>
+   <canvas id="canvas" style="background:#000">
+       your browser not support canavs
+   </canvas>
+   
+   <script>
+       martrix('canvas', {
+           cW: 1390,
+           cH: 700,
+           wordColor: '#FFFC3A',
+           fontSize: 13,
+           speed: 0.13,
+       });
+    
+   </script>
+    
+</body>
+</html>
